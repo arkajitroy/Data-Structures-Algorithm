@@ -13,6 +13,13 @@ All the codes are written in **JAVA**
 - 2D Array (Matrix) Implementation
 - Matrix Addition
 
+### :large_orange_diamond: Sorting Algorithm
+
+- Bubble Sort
+- Selection Sort
+- Insetion Sort
+- Merge Sort
+
 ### :large_orange_diamond: Linked-List
 
 - Implementation of Linked-List from scratch
@@ -24,8 +31,8 @@ All the codes are written in **JAVA**
 - Basic Implementation of Stack
 - Implementation of Stack using array
 - Implementation of Stack using Linked List
-- Push element from the bottom of the Stack - [Example]
-- Reverse a Stack - [Example]
+- Push element from the bottom of the Stack - [Problem-Statement]
+- Reverse a Stack - [Problem-Statement]
 
 ### :large_orange_diamond: Queue
 
